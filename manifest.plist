@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app</string>
+					<string>https://dl.xmdas-link.com/mymall.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://image</string>
+					<string>https://dl.xmdas-link.com/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://img512</string>
+					<string>https://dl.xmdas-link.com/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
